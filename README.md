@@ -96,7 +96,7 @@ I enjoy working across the stack — from designing interfaces and APIs to build
 
 <a href="https://github.com/notyogi">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=notyogi&show_icons=true&hide_border=true&include_all_commits=true"
+    src="https://notyogi.vercel.app/api?username=notyogi&show_icons=true&hide_border=true&include_all_commits=true"
     height="180"
     alt="GitHub Statistics"
   />
@@ -104,7 +104,7 @@ I enjoy working across the stack — from designing interfaces and APIs to build
 
 <a href="https://github.com/notyogi">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyogi&layout=compact&hide_border=true&langs_count=8"
+    src="https://notyogi.vercel.app/api/top-langs/?username=notyogi&layout=compact&hide_border=true&langs_count=8"
     height="180"
     alt="Top Languages"
   />
