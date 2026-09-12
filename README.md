@@ -94,9 +94,21 @@ I enjoy working across the stack — from designing interfaces and APIs to build
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=notyogi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+<a href="https://github.com/notyogi">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=notyogi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyogi&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+<a href="https://github.com/notyogi">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyogi&layout=compact&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</a>
 
 </div>
 
