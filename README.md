@@ -11,13 +11,13 @@
 </a>
 
 <p align="center">
-  <a href="https://notyogi.space">
+  <a href="https://notyogi.space" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-notyogi.space-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/yogendra30/">
+  <a href="https://www.linkedin.com/in/yogendra30/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Yogendra%20Chaurasiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/notyogi_">
+  <a href="https://x.com/notyogi_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-@notyogi__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
