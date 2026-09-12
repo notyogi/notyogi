@@ -96,7 +96,7 @@ I enjoy working across the stack — from designing interfaces and APIs to build
 
 <a href="https://github.com/notyogi">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=notyogi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=notyogi&show_icons=true&hide_border=true&include_all_commits=true"
     height="180"
     alt="GitHub Statistics"
   />
@@ -118,17 +118,10 @@ I enjoy working across the stack — from designing interfaces and APIs to build
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=notyogi&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=notyogi&hide_border=true&area=true&theme=github-compact" />
+<img
+  src="https://streak-stats.demolab.com?user=notyogi&hide_border=true&theme=transparent"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
